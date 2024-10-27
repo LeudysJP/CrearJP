@@ -1,0 +1,19 @@
+# Ignorar archivos de configuración de editores
+.vscode/
+.idea/
+
+# Ignorar dependencias de Node.js
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Ignorar archivos temporales
+*.tmp
+*.temp
+
+# Ignorar archivos de sistema
+.DS_Store       # macOS
+Thumbs.db      # Windows
+
+# Archivos de entorno
+.env            # Archivos que contienen variables de entorno
